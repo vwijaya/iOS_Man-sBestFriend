@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0914EBBC18DDC025009907E0 /* Bo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0914EBB718DDC025009907E0 /* Bo.jpg */; };
+		0914EBBD18DDC025009907E0 /* BorderCollie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0914EBB818DDC025009907E0 /* BorderCollie.jpg */; };
+		0914EBBE18DDC025009907E0 /* ItalianGreyhound.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0914EBB918DDC025009907E0 /* ItalianGreyhound.jpg */; };
+		0914EBBF18DDC025009907E0 /* JRT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0914EBBA18DDC025009907E0 /* JRT.jpg */; };
+		0914EBC018DDC025009907E0 /* St.Bernard.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 0914EBBB18DDC025009907E0 /* St.Bernard.JPG */; };
+		0914EBC318DDEC8E009907E0 /* VWPuppy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0914EBC218DDEC8E009907E0 /* VWPuppy.m */; };
 		0999029418DAC09B001948B9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0999029318DAC09B001948B9 /* Foundation.framework */; };
 		0999029618DAC09B001948B9 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0999029518DAC09B001948B9 /* CoreGraphics.framework */; };
 		0999029818DAC09B001948B9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0999029718DAC09B001948B9 /* UIKit.framework */; };
@@ -21,6 +27,7 @@
 		099902B518DAC09C001948B9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0999029718DAC09B001948B9 /* UIKit.framework */; };
 		099902BD18DAC09C001948B9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 099902BB18DAC09C001948B9 /* InfoPlist.strings */; };
 		099902BF18DAC09C001948B9 /* Man_s_Best_FriendTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 099902BE18DAC09C001948B9 /* Man_s_Best_FriendTests.m */; };
+		099902CA18DACD56001948B9 /* VWDog.m in Sources */ = {isa = PBXBuildFile; fileRef = 099902C918DACD56001948B9 /* VWDog.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +41,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0914EBB718DDC025009907E0 /* Bo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Bo.jpg; sourceTree = "<group>"; };
+		0914EBB818DDC025009907E0 /* BorderCollie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BorderCollie.jpg; sourceTree = "<group>"; };
+		0914EBB918DDC025009907E0 /* ItalianGreyhound.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ItalianGreyhound.jpg; sourceTree = "<group>"; };
+		0914EBBA18DDC025009907E0 /* JRT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = JRT.jpg; sourceTree = "<group>"; };
+		0914EBBB18DDC025009907E0 /* St.Bernard.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = St.Bernard.JPG; sourceTree = "<group>"; };
+		0914EBC118DDEC8E009907E0 /* VWPuppy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = VWPuppy.h; path = ../VWPuppy.h; sourceTree = "<group>"; };
+		0914EBC218DDEC8E009907E0 /* VWPuppy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = VWPuppy.m; path = ../VWPuppy.m; sourceTree = "<group>"; };
 		0999029018DAC09B001948B9 /* Man's Best Friend.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Man's Best Friend.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0999029318DAC09B001948B9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		0999029518DAC09B001948B9 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +67,8 @@
 		099902BA18DAC09C001948B9 /* Man's Best FriendTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Man's Best FriendTests-Info.plist"; sourceTree = "<group>"; };
 		099902BC18DAC09C001948B9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		099902BE18DAC09C001948B9 /* Man_s_Best_FriendTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Man_s_Best_FriendTests.m; sourceTree = "<group>"; };
+		099902C818DACD56001948B9 /* VWDog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = VWDog.h; path = ../VWDog.h; sourceTree = "<group>"; };
+		099902C918DACD56001948B9 /* VWDog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = VWDog.m; path = ../VWDog.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +133,10 @@
 				099902A518DAC09B001948B9 /* Main.storyboard */,
 				099902A818DAC09B001948B9 /* VWViewController.h */,
 				099902A918DAC09B001948B9 /* VWViewController.m */,
+				099902C818DACD56001948B9 /* VWDog.h */,
+				099902C918DACD56001948B9 /* VWDog.m */,
+				0914EBC118DDEC8E009907E0 /* VWPuppy.h */,
+				0914EBC218DDEC8E009907E0 /* VWPuppy.m */,
 				099902AB18DAC09B001948B9 /* Images.xcassets */,
 				0999029A18DAC09B001948B9 /* Supporting Files */,
 			);
@@ -126,6 +146,11 @@
 		0999029A18DAC09B001948B9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0914EBB718DDC025009907E0 /* Bo.jpg */,
+				0914EBB818DDC025009907E0 /* BorderCollie.jpg */,
+				0914EBB918DDC025009907E0 /* ItalianGreyhound.jpg */,
+				0914EBBA18DDC025009907E0 /* JRT.jpg */,
+				0914EBBB18DDC025009907E0 /* St.Bernard.JPG */,
 				0999029B18DAC09B001948B9 /* Man's Best Friend-Info.plist */,
 				0999029C18DAC09B001948B9 /* InfoPlist.strings */,
 				0999029F18DAC09B001948B9 /* main.m */,
@@ -229,8 +254,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0914EBC018DDC025009907E0 /* St.Bernard.JPG in Resources */,
+				0914EBBE18DDC025009907E0 /* ItalianGreyhound.jpg in Resources */,
 				099902AC18DAC09B001948B9 /* Images.xcassets in Resources */,
+				0914EBBF18DDC025009907E0 /* JRT.jpg in Resources */,
 				0999029E18DAC09B001948B9 /* InfoPlist.strings in Resources */,
+				0914EBBD18DDC025009907E0 /* BorderCollie.jpg in Resources */,
+				0914EBBC18DDC025009907E0 /* Bo.jpg in Resources */,
 				099902A718DAC09B001948B9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -251,8 +281,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				099902AA18DAC09B001948B9 /* VWViewController.m in Sources */,
+				099902CA18DACD56001948B9 /* VWDog.m in Sources */,
 				099902A018DAC09B001948B9 /* main.m in Sources */,
 				099902A418DAC09B001948B9 /* VWAppDelegate.m in Sources */,
+				0914EBC318DDEC8E009907E0 /* VWPuppy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -457,6 +489,7 @@
 				099902C418DAC09C001948B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		099902C518DAC09C001948B9 /* Build configuration list for PBXNativeTarget "Man's Best FriendTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +498,7 @@
 				099902C718DAC09C001948B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
